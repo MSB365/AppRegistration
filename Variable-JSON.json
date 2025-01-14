@@ -1,0 +1,14 @@
+{
+    "AppName": "MSB365-Test",
+    "SupportedAccountTypes": "AzureADMyOrg",
+    "RedirectUri": "https://www.msb365.blog",
+    "FrontChannelLogoutUri": "https://www.msb365.blog/logout",
+    "RequiredApiPermissions": 
+        {
+            "roles": [
+        "User.Read.All",
+        "Mail.Read"
+    ]
+        }
+    
+}
