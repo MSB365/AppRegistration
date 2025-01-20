@@ -99,7 +99,7 @@ function ShowEULAPopup($mode)
 {\colortbl ;\red0\green0\blue255;}
 {\*\generator Riched20 10.0.19041}{\*\mmathPr\mdispDef1\mwrapIndent1440 }\viewkind4\uc1
 \pard\widctlpar\f0\fs19\lang1033 MSB365 SOFTWARE MIT LICENSE\par
-Copyright (c) 2024 Drago Petrovic\par
+Copyright (c) 2025 Drago Petrovic\par
 $Scriptname \par
 \par
 {\pict{\*\picprop}\wmetafile8\picw26\pich26\picwgoal32000\pichgoal15
